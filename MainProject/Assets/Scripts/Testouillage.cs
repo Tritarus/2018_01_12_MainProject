@@ -6,7 +6,7 @@ public class Testouillage : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        Debug.Log("Testisme");
 	}
 	
 	// Update is called once per frame
